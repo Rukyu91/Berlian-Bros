@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background-color: #cdf;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+canvas {
+  border: 3px solid #444;
+  background-color: #87cefa;
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+}
+
+#my-element {
+  margin: 10px;
+  font-size: 18px;
+  color: #333;
+}
